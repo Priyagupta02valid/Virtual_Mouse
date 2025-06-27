@@ -24,3 +24,5 @@ requirements.txt	Required Python libraries
 README.md	Project info and instructions
 
 AND a DEMO VIDEO IS ATTACHED---------------------------
+
+demo gif link-- https://github.com/Priyagupta02valid/Virtual_Mouse/blob/main/demo.gif
